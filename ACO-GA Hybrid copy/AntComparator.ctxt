@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AntComparator
+comment0.text=\n\ Used\ to\ compare\ ants\ based\ on\ their\ distance.\ \n
+comment1.params=a\ b
+comment1.target=int\ compare(Ant,\ Ant)
+comment1.text=\n\ Compare\ method\ used\ to\ determine\ which\ fitness\ is\ larger.\n\ \n\ @return\n\ \ \ \ \ \ Integer\ that\ determines\ which\ is\ larger\ for\ comparator\ method\ in\ Population\ class.\ \n
+numComments=2
